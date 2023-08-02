@@ -1,1 +1,1 @@
-# Emphysema-quantification-example
+This repository has a simulated pixelated 3D point pattern and an R script that shows how one can calculate the quantitative emphysema measures compared in "Quantifying the spatial clustering characteristics of radiographic emphysema explains variability in pulmonary function" (ADD LINK ONCE LIVE).
